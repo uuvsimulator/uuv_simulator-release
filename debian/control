@@ -1,0 +1,12 @@
+Source: ros-kinetic-uuv-tutorial-disturbances
+Section: misc
+Priority: extra
+Maintainer: Luiz Ricardo Douat <LuizRicardo.Douat@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-uuv-tutorial-disturbances
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-uuv-control-utils, ros-kinetic-uuv-descriptions, ros-kinetic-uuv-gazebo, ros-kinetic-uuv-thruster-manager, ros-kinetic-uuv-trajectory-control
+Description: Tutorial that shows how to use the uuv_control_utils tools to schedule disturbances to be applied during the simulation
