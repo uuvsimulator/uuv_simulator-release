@@ -1,0 +1,119 @@
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.6.2-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Sun, 02 Dec 2018 23:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.6.1-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Thu, 02 Aug 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.6.0-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Mon, 30 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.13-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Mon, 23 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.12-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Sun, 22 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.11-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Fri, 20 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.10-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Mon, 09 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.9-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Sun, 08 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.8-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Fri, 06 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.7-0xenial) xenial; urgency=high
+
+  * ADD Services and messages to retrieve parameters from UUV Gazebo plugins
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Thu, 05 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.6-0xenial) xenial; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Thu, 05 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.5-0xenial) xenial; urgency=high
+
+  * RM Merge messages from the change log
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * UPDATE Catkin packages format to 2
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Wed, 04 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.4-0xenial) xenial; urgency=high
+
+  * UPDATE Catkin packages format to 2
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.3-0xenial) xenial; urgency=high
+
+  * 0.5.2
+  * ADD CHANGELOG files
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+ros-kinetic-uuv-gazebo-ros-plugins-msgs (0.5.1-0xenial) xenial; urgency=high
+
+  * CHANGE Bump version to 0.5.2
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * CHANGE Version
+  * ADD Services to get/set scalar floating point parameters
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * CHANGE Package versions
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * FIX Typos and package version
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * FIX Package dependencies for rosdep
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * ADD Service and message files with the parameters of a underwater object model.
+    Signed-off-by: Musa Morena Marcusso Manhães <mailto:Musa.Marcusso@de.bosch.com>
+  * Adding the option to read the current velocity under the vehicle namespace. Useful when the current velocity is read and interpolated from a file.
+    Signed-off-by: Musa Morena Marcusso Manhães <mailto:Musa.Marcusso@de.bosch.com>
+  * initial commit
+    Signed-off-by: Sebastian Scherer (CR/AEI) <mailto:sebastian.scherer2@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes, Musa Morena Marcusso Manhães, Sebastian Scherer (CR/AEI)
+
+ -- Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>  Mon, 02 Jul 2018 22:00:00 -0000
+
+
