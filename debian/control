@@ -1,0 +1,12 @@
+Source: ros-kinetic-uuv-sensor-ros-plugins
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), gazebo7, ros-kinetic-catkin, ros-kinetic-gazebo-plugins, ros-kinetic-geometry-msgs, ros-kinetic-message-filters, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf, ros-kinetic-tf2, ros-kinetic-tf2-ros, ros-kinetic-uuv-gazebo-plugins, ros-kinetic-uuv-sensor-ros-plugins-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-uuv-sensor-ros-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, gazebo7, ros-kinetic-gazebo-plugins, ros-kinetic-geometry-msgs, ros-kinetic-message-filters, ros-kinetic-roscpp, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs, ros-kinetic-tf, ros-kinetic-tf2, ros-kinetic-tf2-ros, ros-kinetic-uuv-gazebo-plugins, ros-kinetic-uuv-sensor-ros-plugins-msgs
+Description: The uuv_sensor_ros_plugins package
