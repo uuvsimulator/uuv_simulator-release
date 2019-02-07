@@ -1,0 +1,13 @@
+Source: ros-kinetic-uuv-gazebo-plugins
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, libprotobuf-dev, libprotoc-dev, protobuf-compiler, ros-kinetic-catkin, ros-kinetic-gazebo-dev, ros-kinetic-rosunit
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-uuv-gazebo-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, libprotobuf-dev, libprotoc-dev, protobuf-compiler, ros-kinetic-gazebo-dev
+Description: UUV Simulator's Gazebo plugins for simulation of hydrodynamic and hydrostatic forces, and underwater actuators (e.g.
+ thrusters and fins).
