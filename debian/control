@@ -1,0 +1,12 @@
+Source: ros-kinetic-uuv-assistants
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-uuv-assistants
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-numpy, ros-kinetic-gazebo-msgs, ros-kinetic-geometry-msgs, ros-kinetic-message-to-tf, ros-kinetic-nav-msgs, ros-kinetic-rosgraph, ros-kinetic-rospy, ros-kinetic-rostopic, ros-kinetic-tf, ros-kinetic-visualization-msgs
+Description: Tools and utilities to monitor and analyze the simulation
