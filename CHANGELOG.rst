@@ -2,6 +2,17 @@
 Changelog for package uuv_assistants
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.9 (2019-02-26)
+------------------
+
+0.6.8 (2019-02-14)
+------------------
+* Fix paths to launch files after refactor
+  Signed-off-by: Musa Morena Marcusso Manhaes <Musa.Marcusso@de.bosch.com>
+* Align tutorials and templates to new locations
+  Signed-off-by: Tim Clephas <tim.clephas@nobleo.nl>
+* Contributors: Musa Morena Marcusso Manhaes, Tim Clephas
+
 0.6.7 (2019-02-13)
 ------------------
 
