@@ -1,3 +1,52 @@
+## uuv_simulator (kinetic) - 0.6.9-0
+
+The packages in the `uuv_simulator` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release uuv_simulator --rosdistro kinetic` on `Tue, 26 Feb 2019 16:35:41 -0000`
+
+These packages were released:
+- `uuv_assistants`
+- `uuv_auv_control_allocator`
+- `uuv_control_cascaded_pid`
+- `uuv_control_msgs`
+- `uuv_control_utils`
+- `uuv_descriptions`
+- `uuv_gazebo`
+- `uuv_gazebo_plugins`
+- `uuv_gazebo_ros_plugins`
+- `uuv_gazebo_ros_plugins_msgs`
+- `uuv_gazebo_worlds`
+- `uuv_sensor_ros_plugins`
+- `uuv_sensor_ros_plugins_msgs`
+- `uuv_simulator`
+- `uuv_teleop`
+- `uuv_thruster_manager`
+- `uuv_trajectory_control`
+- `uuv_world_plugins`
+- `uuv_world_ros_plugins`
+- `uuv_world_ros_plugins_msgs`
+
+These packages were explicitly ignored:
+- `uuv_tutorials`
+- `uuv_tutorial_disturbances`
+- `uuv_tutorial_dp_controller`
+- `uuv_tutorial_seabed_world`
+
+Version of package(s) in repository `uuv_simulator`:
+
+- upstream repository: https://github.com/uuvsimulator/uuv_simulator.git
+- release repository: https://github.com/uuvsimulator/uuv_simulator-release.git
+- rosdistro version: `0.6.7-0`
+- old version: `0.6.7-0`
+- new version: `0.6.9-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## uuv_simulator (kinetic) - 0.6.7-0
 
 The packages in the `uuv_simulator` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release uuv_simulator --rosdistro kinetic` on `Thu, 14 Feb 2019 09:19:03 -0000`
