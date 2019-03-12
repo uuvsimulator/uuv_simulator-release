@@ -1,0 +1,178 @@
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.10-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 27 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.9-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Mon, 25 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.8-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 13 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.7-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 12 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.6-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Mon, 11 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.5-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 06 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.4-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Sat, 02 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.3-0bionic) bionic; urgency=high
+
+  * CHANGE Use lowercase strings for e-mail
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhães
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 12 Dec 2018 23:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.2-0bionic) bionic; urgency=high
+
+  * CHANGE Sensor ROS plugins package name
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * CHANGE Name of ROS sensor plugins package
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhães
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Sun, 02 Dec 2018 23:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.1-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Thu, 02 Aug 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.6.0-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Mon, 30 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.13-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Mon, 23 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.12-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Sun, 22 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.11-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Fri, 20 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.10-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Mon, 09 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.9-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Sun, 08 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.8-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Fri, 06 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.7-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Thu, 05 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.6-0bionic) bionic; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Thu, 05 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.5-0bionic) bionic; urgency=high
+
+  * RM Merge messages from the change log
+  Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * UPDATE Catkin packages format to 2
+  Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 04 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.4-0bionic) bionic; urgency=high
+
+  * UPDATE Catkin packages format to 2
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.3-0bionic) bionic; urgency=high
+
+  * ADD CHANGELOG files
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-sensor-ros-plugins-msgs (0.5.1-0bionic) bionic; urgency=high
+
+  * CHANGE Bump version to 0.5.2
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * ADD Salinity sensor message
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * CHANGE Version
+  * FIX Name of position variable in message
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * ADD Pose of beam wrt DVL link
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * ADD Altitude information
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * CHANGE Package versions
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * FIX Typos and package version
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * ADD WGS84 coordinates to measurement topic output
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * CHANGE CMakeLists for new file names and sensor
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * ADD Chemical particle concentration message
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * ADD Acoustic sonar plugin to switch sonar on/off
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:musa.marcusso@de.bosch.com>
+  * initial commit
+    Signed-off-by: Sebastian Scherer (CR/AEI) <mailto:sebastian.scherer2@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes, Sebastian Scherer (CR/AEI)
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Mon, 02 Jul 2018 22:00:00 -0000
+
+
