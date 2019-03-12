@@ -1,0 +1,12 @@
+Source: ros-melodic-uuv-gazebo-ros-plugins-msgs
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-message-generation, ros-melodic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-uuv-gazebo-ros-plugins-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-std-msgs
+Description: The uuv_gazebo_ros_plugins_msgs package
