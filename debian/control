@@ -1,0 +1,12 @@
+Source: ros-lunar-uuv-sensor-ros-plugins
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-gazebo-dev, ros-lunar-gazebo-plugins, ros-lunar-geometry-msgs, ros-lunar-image-transport, ros-lunar-laser-geometry, ros-lunar-message-filters, ros-lunar-roscpp, ros-lunar-rostest, ros-lunar-rosunit, ros-lunar-sensor-msgs, ros-lunar-std-msgs, ros-lunar-tf, ros-lunar-tf2, ros-lunar-tf2-ros, ros-lunar-uuv-gazebo-plugins, ros-lunar-uuv-sensor-ros-plugins-msgs, ros-lunar-xacro
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-lunar-uuv-sensor-ros-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-gazebo-dev, ros-lunar-gazebo-plugins, ros-lunar-geometry-msgs, ros-lunar-image-transport, ros-lunar-laser-geometry, ros-lunar-message-filters, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-std-msgs, ros-lunar-tf, ros-lunar-tf2, ros-lunar-tf2-ros, ros-lunar-uuv-gazebo-plugins, ros-lunar-uuv-sensor-ros-plugins-msgs
+Description: The uuv_sensor_ros_plugins package
