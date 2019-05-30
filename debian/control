@@ -1,0 +1,12 @@
+Source: ros-melodic-uuv-assistants
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-sensor-msgs, ros-melodic-tf, ros-melodic-topic-tools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-uuv-assistants
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-numpy, ros-melodic-gazebo-msgs, ros-melodic-geometry-msgs, ros-melodic-nav-msgs, ros-melodic-roscpp, ros-melodic-rosgraph, ros-melodic-rospy, ros-melodic-rostopic, ros-melodic-sensor-msgs, ros-melodic-tf, ros-melodic-topic-tools, ros-melodic-visualization-msgs
+Description: Tools and utilities to monitor and analyze the simulation
