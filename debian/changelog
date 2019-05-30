@@ -1,0 +1,83 @@
+ros-melodic-uuv-gazebo-worlds (0.6.12-0stretch) stretch; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 22 May 2019 22:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.6.11-0stretch) stretch; urgency=high
+
+  * Fix path to sea surface in world model publisher
+    Signed-off-by: Musa Morena Marcusso Manhães <mailto:musa.marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhães
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 20 Mar 2019 23:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.6.10-0stretch) stretch; urgency=high
+
+  * Fix non-executables
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 27 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.6.9-0stretch) stretch; urgency=high
+
+  * Replace all gazebo dependencies for gazebo_dev
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Mon, 25 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.6.8-0stretch) stretch; urgency=high
+
+  * Fix paths to launch files after refactor
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhaes
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 13 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.6.7-0stretch) stretch; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 12 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.6.6-0stretch) stretch; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Mon, 11 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.6.5-0stretch) stretch; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 06 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.6.4-0stretch) stretch; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Sat, 02 Feb 2019 23:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.6.3-0stretch) stretch; urgency=high
+
+  * MV World models and files to uuv_gazebo_worlds
+    Signed-off-by: Musa Morena Marcusso Manhaes <mailto:Musa.Marcusso@de.bosch.com>
+  * Contributors: Musa Morena Marcusso Manhães
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Wed, 12 Dec 2018 23:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.5.3-0stretch) stretch; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Tue, 03 Jul 2018 22:00:00 -0000
+
+ros-melodic-uuv-gazebo-worlds (0.5.1-0stretch) stretch; urgency=high
+
+
+
+ -- Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>  Mon, 02 Jul 2018 22:00:00 -0000
+
+
