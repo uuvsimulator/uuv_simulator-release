@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>uuv_sensor_ros_plugins</name>
-  <version>0.6.10</version>
+  <version>0.6.12</version>
   <description>The uuv_sensor_ros_plugins package</description>
 
   <maintainer email="musa.marcusso@de.bosch.com">Musa Morena Marcusso Manhaes</maintainer>
@@ -28,6 +28,8 @@
   <depend>message_filters</depend>
   <depend>tf2_ros</depend>
   <depend>tf2</depend>
+  <depend>image_transport</depend>
+  <depend>laser_geometry</depend>
 
   <test_depend>rosunit</test_depend>
   <test_depend>rostest</test_depend>
