@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>uuv_thruster_manager</name>
-  <version>0.6.12</version>
+  <version>0.6.13</version>
   <description>The thruster manager package</description>
 
   <maintainer email="musa.marcusso@de.bosch.com">Musa Morena Marcusso Manhaes</maintainer>
@@ -25,5 +25,16 @@
   <exec_depend>python-yaml</exec_depend>
   <exec_depend>uuv_gazebo_ros_plugins_msgs</exec_depend>
   <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>uuv_assistants</exec_depend>
+
+  <test_depend>rosunit</test_depend>
+  <test_depend>rostest</test_depend>
+  <test_depend>python-numpy</test_depend>
+  <test_depend>uuv_assistants</test_depend>
+  <test_depend>geometry_msgs</test_depend>
+  <test_depend>joint_state_publisher</test_depend>
+  <test_depend>robot_state_publisher</test_depend>
+  <test_depend>xacro</test_depend>
 
 </package>
+
