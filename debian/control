@@ -1,0 +1,12 @@
+Source: ros-melodic-uuv-thruster-manager
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), python-numpy, ros-melodic-catkin, ros-melodic-geometry-msgs, ros-melodic-joint-state-publisher, ros-melodic-message-generation, ros-melodic-robot-state-publisher, ros-melodic-rostest, ros-melodic-rosunit, ros-melodic-std-msgs, ros-melodic-uuv-assistants, ros-melodic-xacro
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-uuv-thruster-manager
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-yaml, ros-melodic-geometry-msgs, ros-melodic-message-runtime, ros-melodic-rospy, ros-melodic-std-msgs, ros-melodic-tf, ros-melodic-uuv-assistants, ros-melodic-uuv-gazebo-ros-plugins-msgs
+Description: The thruster manager package
