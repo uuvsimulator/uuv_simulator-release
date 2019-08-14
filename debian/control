@@ -1,0 +1,13 @@
+Source: ros-melodic-uuv-gazebo-plugins
+Section: misc
+Priority: extra
+Maintainer: Musa Morena Marcusso Manhaes <musa.marcusso@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, libprotobuf-dev, libprotoc-dev, protobuf-compiler, ros-melodic-catkin, ros-melodic-gazebo-dev, ros-melodic-rosunit
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-uuv-gazebo-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, libprotobuf-dev, libprotoc-dev, protobuf-compiler, ros-melodic-gazebo-dev
+Description: UUV Simulator's Gazebo plugins for simulation of hydrodynamic and hydrostatic forces, and underwater actuators (e.g.
+ thrusters and fins).
