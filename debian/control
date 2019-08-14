@@ -1,0 +1,12 @@
+Source: ros-melodic-uuv-simulator
+Section: misc
+Priority: extra
+Maintainer: Luiz Ricardo Douat <luizricardo.douat@de.bosch.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-uuv-simulator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-uuv-assistants, ros-melodic-uuv-auv-control-allocator, ros-melodic-uuv-control-cascaded-pid, ros-melodic-uuv-control-msgs, ros-melodic-uuv-control-utils, ros-melodic-uuv-descriptions, ros-melodic-uuv-gazebo, ros-melodic-uuv-gazebo-plugins, ros-melodic-uuv-gazebo-ros-plugins, ros-melodic-uuv-gazebo-ros-plugins-msgs, ros-melodic-uuv-gazebo-worlds, ros-melodic-uuv-sensor-ros-plugins, ros-melodic-uuv-sensor-ros-plugins-msgs, ros-melodic-uuv-teleop, ros-melodic-uuv-thruster-manager, ros-melodic-uuv-trajectory-control, ros-melodic-uuv-world-plugins, ros-melodic-uuv-world-ros-plugins, ros-melodic-uuv-world-ros-plugins-msgs
+Description: uuv_simulator contains Gazebo plugins and ROS packages for modeling and simulating unmanned underwater vehicles
